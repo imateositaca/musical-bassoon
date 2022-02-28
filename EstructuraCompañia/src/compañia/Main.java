@@ -6,7 +6,7 @@ public class Main {
 
 		Empleado e1 = new Empleado();
 		System.out.println(e1.toString());
-		
+		System.out.println("Hola");
 	}
 
 }
